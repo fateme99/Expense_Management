@@ -9,6 +9,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.graphics.Color
 import androidx.navigation.NavController
 import androidx.navigation.compose.currentBackStackEntryAsState
+import com.example.expensemanagement.bottomnavigation.BottomNavItem
 import com.example.expensemanagement.ui.theme.LightBlue
 
 @Composable

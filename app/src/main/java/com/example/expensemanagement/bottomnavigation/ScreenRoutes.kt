@@ -1,4 +1,4 @@
-package com.example.expensemanagement
+package com.example.expensemanagement.bottomnavigation
 
 sealed class ScreenRoutes(val route : String){
     object HomeScreen : ScreenRoutes("home_screen")

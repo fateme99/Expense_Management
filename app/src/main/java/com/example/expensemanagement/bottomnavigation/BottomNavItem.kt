@@ -1,4 +1,4 @@
-package com.example.expensemanagement
+package com.example.expensemanagement.bottomnavigation
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AccountBox
